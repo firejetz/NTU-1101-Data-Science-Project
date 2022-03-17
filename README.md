@@ -6,8 +6,8 @@
 
 ## Table of Contents
 <!--ts-->
-   1. [Environment](https://github.com/firejetz/NTU-1101-Data-Science-Project/edit/main/README.md#environment)
-   2. [Data](https://github.com/firejetz/NTU-1101-Data-Science-Project/edit/main/README.md#data)
+   1. [Environment](https://github.com/firejetz/NTU-1101-Data-Science-Project/blob/main/README.md#Environment)
+   2. [Data](https://github.com/firejetz/NTU-1101-Data-Science-Project/blob/main/README.md#data)
 <!--te-->
 
 
