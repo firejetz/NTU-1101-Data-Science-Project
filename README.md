@@ -21,3 +21,7 @@
 * Training set (45,000 images)
 * Validation set (15,000 images)
 * Testing set (10,000 images)
+
+   * Data example
+
+      ![image](https://user-images.githubusercontent.com/79726434/158850586-c95a73c0-c92a-4ae8-9de5-0988b2b06c96.png)
